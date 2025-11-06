@@ -1,4 +1,4 @@
-# Web Calculator Emulator - VieLearning
+# Web Calculator Emulator
 
 A community-driven web calculator emulator.
 
